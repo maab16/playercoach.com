@@ -22,7 +22,7 @@
     "sass": "^1.22.5",
     "sass-loader": "7.*",
     "sweetalert2": "^8.13.6",
-    "urijs": "^1.17.0",
+    "urijs": "^1.19.7",
     "vue": "2.*",
     "vue-template-compiler": "^2.6.10"
   }
